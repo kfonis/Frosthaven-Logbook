@@ -11,12 +11,12 @@ _A chronicle of the adventures, misadventures, questionable decisions, and occas
 
 ## Active Party
 
-| Character           | Class       | Notes                |
-| ------------------- | ----------- | -------------------- |
-| Poul Krebs          | Deepwraith  | Current party member |
-| Sha'Dow Kira        | Deathwalker | Current party member |
-| Unnamed Frozen Fist | Frozen Fist | Current party member |
-| Unnamed Trapper     | Trapper     | Current party member |
+| Character           | Class       |
+| ------------------- | ----------- |
+| Poul Krebs          | Deepwraith  |
+| Sha'Dow Kira        | Deathwalker |
+| Unnamed Frozen Fist | Frozen Fist |
+| Unnamed Trapper     | Trapper     |
 
 ## Retired Adventurers
 
