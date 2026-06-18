@@ -4,16 +4,28 @@ _A chronicle of the adventures, misadventures, questionable decisions, and occas
 
 ---
 
-## Current Party
+## Quick Links
 
-| Character           | Class       |
-| ------------------- | ----------- |
-| Unnamed Trapper     | Trapper     |
-| Unnamed Frozen Fist | Frozen Fist |
-| Sha'Dow Kira        | Deathwalker |
-| Poul Krebs          | Deepwraith  |
+- [Campaign Logbook](Logbook.md)
+- [Detailed Party Roster descriptions](PartyRoster.md)
 
-See [Party Roster](PartyRoster.md) for full description
+## Active Party
+
+| Character           | Class       | Notes                |
+| ------------------- | ----------- | -------------------- |
+| Poul Krebs          | Deepwraith  | Current party member |
+| Sha'Dow Kira        | Deathwalker | Current party member |
+| Unnamed Frozen Fist | Frozen Fist | Current party member |
+| Unnamed Trapper     | Trapper     | Current party member |
+
+## Retired Adventurers
+
+| Character             | Class        | Legacy                                 |
+| --------------------- | ------------ | -------------------------------------- |
+| Necro Minaj           | Boneshaper   | Retired to help build Frosthaven       |
+| Geminiels / Gemimanda | Geminate     | Remained in the Radiant Forest         |
+| Britney Spear         | Banner Spear | Hero of the Coral Shard expedition     |
+| Blinkenblade          | Blinkblade   | Fastest adventurer Frosthaven ever saw |
 
 ## Current Story Threads
 
@@ -29,11 +41,7 @@ The conflict between the Snowspeakers and Icespeakers remains unresolved.
 
 The settlement continues to rebuild and expand while enduring threats from every direction.
 
-## Journal
-
-See [Campaign Logbook](Logbook.md) for the full story with all entries
-
-### Recent Entries
+## Recent Journal Entries
 
 - [Week 16 - Derelict Elevator](Logbook.md#week-16-derelict-elevator)
 - [Week 15 - Jagged Shoals](Logbook.md#week-15-jagged-shoals)
