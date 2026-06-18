@@ -1,6 +1,6 @@
 # Frosthaven Journal
 
-_A chronicle of the adventures, misadventures, questionable decisions, and occasional heroics of our Frosthaven party._
+_A chronicle of the adventures, misadventures, questionable decisions, and occasional heroics the Frosthaven party **Kulturministeriet**._
 
 ---
 
@@ -13,14 +13,7 @@ _A chronicle of the adventures, misadventures, questionable decisions, and occas
 | Sha'Dow Kira        | Deathwalker |
 | Poul Krebs          | Deepwraith  |
 
----
-
-## Reference
-
-- [Campaign Logbook](Logbook.md)
-- [Party Roster](PartyRoster.md)
-
----
+See [Party Roster](PartyRoster.md) for full description
 
 ## Current Story Threads
 
@@ -36,10 +29,14 @@ The conflict between the Snowspeakers and Icespeakers remains unresolved.
 
 The settlement continues to rebuild and expand while enduring threats from every direction.
 
----
+## Journal
 
-## Latest Entry
+See [Campaign Logbook](Logbook.md) for the full story with all entries
+
+### Recent Entries
+
+- [Week 16 - Derelict Elevator](Logbook.md#week-16-derelict-elevator)
+- [Week 15 - Jagged Shoals](Logbook.md#week-15-jagged-shoals)
+- [Week 14 - Frozen Fjord](Logbook.md#week-14-frozen-fjord)
 
 ![Latest Session](assets/images/logbook-week-016-derelict-elevator.png)
-
-_Week 16: Derelict Elevator_

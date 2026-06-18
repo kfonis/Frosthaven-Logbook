@@ -1,3 +1,7 @@
+[🏠 Home](index.md) | [📖 Logbook](Logbook.md) | [👥 Party Roster](PartyRoster.md)
+
+---
+
 # Frosthaven Logbook
 
 ## Logbook entries
