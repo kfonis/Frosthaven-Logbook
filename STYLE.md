@@ -56,8 +56,8 @@ Current known party references:
 - Party name: Kulturministeriet
 - Poul Krebs: Deepwraith
 - Sha'Dow Kira: Deathwalker
-- Frozen Fist: currently unnamed
-- Trapper: currently unnamed
+- Frozen Fist: XL-sa
+- Trapper: Trapper, The Creator
 
 ## Images
 

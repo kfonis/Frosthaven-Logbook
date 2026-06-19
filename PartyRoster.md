@@ -6,21 +6,21 @@
 
 ## Current Party
 
-### Unnamed, Class: Trapper
+### Trapper, The Creator, Class: Trapper
 
 They showed up to Frosthaven bundled in layers of mismatched fur, teeth chattering before even opening their mouth—but once they spoke, it became clear: this Vermling was entirely too excited about traps. Not just effective traps. Not just clever traps. Ridiculously elaborate traps. Rube Goldberg disasters made of cheese, wire, spoons, and whatever they can "borrow" from the Frosthaven kitchen without getting caught. “No one expects the soup ladle drop-snare,” they once muttered, eyes wide with glee.
 
 Their obsession with trapping verges on theatrical. They often describe each setup with way too much detail—pausing mid-mission to explain, “Okay, okay, so if they step on the pebble, it triggers the icicle to swing, then the net, then—” before being cut off by someone stepping directly into battle.
 
-They don’t have a name yet, or at least not one they’re willing to share. “Names are like bait,” they say cryptically. “You don’t just throw it out there.”
+They finally gave the party a name: Trapper, The Creator. “Names are like bait,” they say cryptically. “You don’t just throw it out there.”
 
 Despite their manic energy and near-constant muttering about “optimal tripwire angles,” they’re wildly competent. Enemies that underestimate them tend to vanish into snowdrifts, snared and shrieking. They have a habit of popping out from behind trees or snowbanks to whisper “Gotcha,” even when it’s someone else who landed the final blow.
 
-Sha’Dow Kira has threatened to shove a trap down their throat at least once. Poul Krebs finds them “weirdly delightful.” The Frozen Fist doesn’t say much—but always steps carefully when this one’s around.
+Sha’Dow Kira has threatened to shove a trap down their throat at least once. Poul Krebs finds them “weirdly delightful.” XL-sa doesn’t say much—but always steps carefully when this one’s around.
 
-### Unnamed, Class: Frozen Fist
+### XL-sa, Class: Frozen Fist
 
-He hasn’t offered a name, and no one’s pressed him for it. What he has offered, however, is a firm belief that the ice speaks to him. Not in dreams or metaphors—literally. He listens intently to snowdrifts, consults frost-covered stones like trusted advisors, and carries a small pouch of ice shards he calls his “council.” He’ll occasionally pause mid-conversation—or mid-battle—to nod thoughtfully at one of them, then act with full conviction, as though he'd just received tactical advice from a sliver of hail.
+He finally offered a name, and it arrived with the same stark certainty as the rest of him: XL-sa. What he has offered, however, is a firm belief that the ice speaks to him. Not in dreams or metaphors—literally. He listens intently to snowdrifts, consults frost-covered stones like trusted advisors, and carries a small pouch of ice shards he calls his “council.” He’ll occasionally pause mid-conversation—or mid-battle—to nod thoughtfully at one of them, then act with full conviction, as though he'd just received tactical advice from a sliver of hail.
 
 The others find it strange. Sha’Dow Kira suspects madness but says nothing. Poul Krebs once asked what the ice says about him and got a three-minute silent stare in reply.
 

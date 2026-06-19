@@ -19,8 +19,8 @@ Players/characters present:
 
 ## Character Moments
 
-- Trapper:
-- Frozen Fist:
+- Trapper, The Creator:
+- XL-sa:
 - Sha'Dow Kira:
 - Poul Krebs:
 
