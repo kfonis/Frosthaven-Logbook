@@ -1,6 +1,6 @@
 # Frosthaven Journal
 
-_A chronicle of the adventures, misadventures, questionable decisions, and occasional heroics the Frosthaven party **Kulturministeriet**._
+_A chronicle of the adventures, misadventures, questionable decisions, and occasional heroics of the Frosthaven party **Kulturministeriet**._
 
 ---
 
@@ -11,12 +11,12 @@ _A chronicle of the adventures, misadventures, questionable decisions, and occas
 
 ## Active Party
 
-| Character           | Class       |
-| ------------------- | ----------- |
-| Poul Krebs          | Deepwraith  |
-| Sha'Dow Kira        | Deathwalker |
-| Unnamed Frozen Fist | Frozen Fist |
-| Unnamed Trapper     | Trapper     |
+| Character               | Class       |
+| ----------------------- | ----------- |
+| Poul Krebs              | Deepwraith  |
+| Sha'Dow Kira            | Deathwalker |
+| **Unnamed** Frozen Fist | Frozen Fist |
+| **Unnamed** Trapper     | Trapper     |
 
 ## Retired Adventurers
 

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local extracts of copyrighted source books. Keep these private.
+sources/extracted/
