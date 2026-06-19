@@ -47,8 +47,8 @@ The settlement continues to rebuild and expand while enduring threats from every
 
 ## Recent Journal Entries
 
-- [Week 17 - Quatryl Library](Logbook.md#week-17-quatryl-library)
-- [Week 16 - Derelict Elevator](Logbook.md#week-16-derelict-elevator)
-- [Week 15 - Jagged Shoals](Logbook.md#week-15-jagged-shoals)
+- [Week 17 - Quatryl Library](logbook/week-17-quatryl-library.md)
+- [Week 16 - Derelict Elevator](logbook/week-16-derelict-elevator.md)
+- [Week 15 - Jagged Shoals](logbook/week-15-jagged-shoals.md)
 
 ![Latest Session](assets/images/logbook-week-017-quatryl-library.png)
