@@ -37,14 +37,18 @@ The party continues gathering the scattered Coral Shards in hopes of restoring t
 
 The conflict between the Snowspeakers and Icespeakers remains unresolved.
 
+### Unfettered
+
+Crain Tallengyr has warned the party that the autonomous machines beneath the ice are organized, numerous, and preparing something dangerous.
+
 ### Frosthaven
 
 The settlement continues to rebuild and expand while enduring threats from every direction.
 
 ## Recent Journal Entries
 
+- [Week 17 - Quatryl Library](Logbook.md#week-17-quatryl-library)
 - [Week 16 - Derelict Elevator](Logbook.md#week-16-derelict-elevator)
 - [Week 15 - Jagged Shoals](Logbook.md#week-15-jagged-shoals)
-- [Week 14 - Frozen Fjord](Logbook.md#week-14-frozen-fjord)
 
-![Latest Session](assets/images/logbook-week-016-derelict-elevator.png)
+![Latest Session](assets/images/logbook-week-017-quatryl-library.png)

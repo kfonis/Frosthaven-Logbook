@@ -26,6 +26,8 @@ The others find it strange. Sha’Dow Kira suspects madness but says nothing. Po
 
 A towering Algox of the Icespeaker tradition, he treats cold as holy and silence as sacred. His footsteps are thunderous, his fists wrapped in biting frost, and his presence on the battlefield feels like winter given form—slow, patient, and crushing.
 
+In the Quatryl Library, XL-sa proved that his silence is not detachment. When the machines rushed the pressure plate, he simply became the wall they had to break first, spending himself so the others could strike safely from behind him.
+
 He never seems to seek leadership or attention. But when he speaks, it's usually to say something cryptic, like: “The south wind lies today,” or “The ice warned me you’d ask that.” Whether it's wisdom or lunacy, he doesn’t seem to care. The ice speaks. He listens.
 
 ### Sha’Dow Kira, Class: Deathwalker
