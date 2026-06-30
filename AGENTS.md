@@ -11,6 +11,7 @@ This repository is a Frosthaven campaign journal for the party Kulturministeriet
 - `PartyRoster.md`: character descriptions, retired characters, personalities, and recurring jokes.
 - `template.md`: structure for new session notes and logbook entries.
 - `sources/Classes.md`: class lore and flavor reference.
+- `sources/class-sheets.pdf`: playable class sheets; use as background for class identity and as the visual likeness reference for character illustrations.
 - `sources/`: Frosthaven reference PDFs and supporting material.
 - `sources/extracted/`: local, ignored flavor-text extracts of the source PDFs when present.
 - `assets/images/`: generated or saved images used by the logbook.
@@ -26,6 +27,8 @@ This repository is a Frosthaven campaign journal for the party Kulturministeriet
 - Follow the existing image filename pattern: `logbook-week-###-scenario-name.png`.
 - Do not rewrite old campaign history unless explicitly asked.
 - Do not introduce spoilers beyond what is already present in the repository or provided by the user.
+- When writing characters in play, use `sources/Classes.md` for class lore and `sources/class-sheets.pdf` for class-sheet context and visual identity.
+- When generating new logbook images, draw each character's species, silhouette, clothing, weapons, equipment, and class motifs from `sources/class-sheets.pdf`, then adapt them to the named character's established personality and table jokes.
 - When source-book flavor is needed, prefer `sources/extracted/` if it exists because it is faster and more searchable than the PDFs.
 - Do not use extracted files as a gameplay rules reference; gameplay setup and mechanics are intentionally filtered out.
 - Preserve and follow `Referenced sections` metadata when tracing scenario and section chains.

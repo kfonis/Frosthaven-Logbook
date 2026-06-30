@@ -63,9 +63,10 @@ Recent journal links should point to the corresponding heading anchors in `Logbo
 ## Add Or Update An Image
 
 1. Choose a descriptive filename using the existing pattern.
-2. Save it in `assets/images/`.
-3. Reference it with a relative Markdown path.
-4. Confirm the file exists and the path matches exactly.
+2. Use `sources/class-sheets.pdf` as the visual reference for featured playable characters, matching class silhouette, ancestry, gear, weapons, and motifs while preserving the campaign character's own personality and recurring jokes.
+3. Save it in `assets/images/`.
+4. Reference it with a relative Markdown path.
+5. Confirm the file exists and the path matches exactly.
 
 Example:
 

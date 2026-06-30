@@ -23,3 +23,4 @@ Each logbook entry now lives on its own page. Use the table of contents below to
 - [Week 15: Sunless Trench](logbook/week-15-sunless-trench.md)
 - [Week 16 – Derelict Elevator](logbook/week-16-derelict-elevator.md)
 - [Week 17 - Quatryl Library](logbook/week-17-quatryl-library.md)
+- [Week 18 - A Strong Foundation](logbook/week-18-a-strong-foundation.md)

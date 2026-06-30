@@ -4,7 +4,7 @@
 
 # Week 17 - Quatryl Library
 
-[Previous entry](week-16-derelict-elevator.md) | [Logbook TOC](../Logbook.md) | [Next entry](../Logbook.md)
+[Previous entry](week-16-derelict-elevator.md) | [Logbook TOC](../Logbook.md) | [Next entry](week-18-a-strong-foundation.md)
 
 ---
 

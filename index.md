@@ -41,14 +41,18 @@ The conflict between the Snowspeakers and Icespeakers remains unresolved.
 
 Crain Tallengyr has warned the party that the autonomous machines beneath the ice are organized, numerous, and preparing something dangerous.
 
+### Voice-of-Eight
+
+The Aesther collective known as Voice-of-Eight will return in six weeks after searching the planes for a way to recover four elemental cores and restore the ancient array north of Frosthaven.
+
 ### Frosthaven
 
 The settlement continues to rebuild and expand while enduring threats from every direction.
 
 ## Recent Journal Entries
 
+- [Week 18 - A Strong Foundation](logbook/week-18-a-strong-foundation.md)
 - [Week 17 - Quatryl Library](logbook/week-17-quatryl-library.md)
 - [Week 16 - Derelict Elevator](logbook/week-16-derelict-elevator.md)
-- [Week 15 - Jagged Shoals](logbook/week-15-jagged-shoals.md)
 
-![Latest Session](assets/images/logbook-week-017-quatryl-library.png)
+![Latest Session](assets/images/logbook-week-018-a-strong-foundation.png)
