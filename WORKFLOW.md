@@ -12,7 +12,7 @@
 8. Turn the notes into a polished entry in `Logbook.md`.
 9. Save or generate the session image in `assets/images/`.
 10. Add the image reference to the new logbook entry.
-11. Update `index.md` so the latest session and recent entries are current.
+11. Update `index.md` so the latest-entry block under Quick Links, its linked image, and the corresponding Current Story Threads recap and related-entry links are current. Remove any `Active Side Quests` subsection whose flowchart path has no visible outgoing scenarios left.
 12. Update `PartyRoster.md` if character status, personality, retirement, or party composition changed.
 
 ## Convert Source Books
@@ -55,10 +55,11 @@ When adding a new session, check these sections in `index.md`:
 - Active Party
 - Retired Adventurers
 - Current Story Threads
-- Recent Journal Entries
-- Latest session image
+- Latest-entry block and linked image under Quick Links
 
 Recent journal links should point to the corresponding heading anchors in `Logbook.md`.
+
+For Current Story Threads, place Algox, Lurker, and Unfettered scenarios under `Main Quest`. Place other active threads under `Active Side Quests`. When a new session advances a side quest, check `sources/scenario-flowchart.md`: if the played scenario has no visible outgoing scenarios left for that thread, remove that side quest from `Active Side Quests` instead of leaving it as active. Otherwise, briefly update that thread's recap and add the new logbook entry to its related-entry list.
 
 ## Add Or Update An Image
 
@@ -93,5 +94,6 @@ Before finishing a change:
 - Confirm all Markdown links are valid.
 - Confirm image paths exist.
 - Confirm the latest week appears in `index.md` if applicable.
+- Confirm `Active Side Quests` contains only threads that still have visible outgoing scenarios in `sources/scenario-flowchart.md`.
 - Confirm character names and class names match existing usage.
 - Keep unrelated files unchanged.
